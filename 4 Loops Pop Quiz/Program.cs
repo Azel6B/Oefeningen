@@ -11,7 +11,7 @@ namespace _4_Loops_Pop_Quiz
             whileloop();
             Console.WriteLine("");
             foreachloop();
-            Console.WriteLine(" ");
+            Console.WriteLine("");
             dowhileloop();
         }
 
