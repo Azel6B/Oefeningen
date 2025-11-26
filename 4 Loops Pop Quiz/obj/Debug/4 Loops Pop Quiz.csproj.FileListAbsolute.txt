@@ -1,0 +1,8 @@
+C:\Github\School\C# Lessen\C#\Oefeningen\4 Loops Pop Quiz\obj\Debug\4 Loops Pop Quiz.csproj.AssemblyReference.cache
+C:\Github\School\C# Lessen\C#\Oefeningen\4 Loops Pop Quiz\obj\Debug\4 Loops Pop Quiz.csproj.CoreCompileInputs.cache
+C:\Github\School\C# Lessen\C#\Oefeningen\4 Loops Pop Quiz\bin\Debug\4 Loops Pop Quiz.exe.config
+C:\Github\School\C# Lessen\C#\Oefeningen\4 Loops Pop Quiz\bin\Debug\4 Loops Pop Quiz.exe
+C:\Github\School\C# Lessen\C#\Oefeningen\4 Loops Pop Quiz\bin\Debug\4 Loops Pop Quiz.pdb
+C:\Github\School\C# Lessen\C#\Oefeningen\4 Loops Pop Quiz\obj\Debug\4 Loops Pop Quiz.exe
+C:\Github\School\C# Lessen\C#\Oefeningen\4 Loops Pop Quiz\obj\Debug\4 Loops Pop Quiz.pdb
+C:\Github\School\C# Lessen\C#\Oefeningen\4 Loops Pop Quiz\obj\Debug\4 Loops Pop Quiz.exe.config
